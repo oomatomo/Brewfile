@@ -7,9 +7,10 @@ brew brew-cask
 cask alfred
 cask atom
 cask boot2docker-status
-cask boot2docker
+cask docker-machine
 cask flash-player
 cask google-chrome
+cask google-drive
 cask intellij-idea-ce
 cask iterm2
 cask java
@@ -21,13 +22,25 @@ brew brew-file
 
 # Other Homebrew packages
 brew ansible
+brew apache-spark
 brew autoconf
+brew docker
+brew freetype
 brew gdbm
 brew git
+brew giter8
 brew go
+brew imagemagick
+brew jpeg
+brew jsvc
+brew lha
 brew libevent
+brew libpng
+brew libtiff
+brew libtool
 brew libyaml
 brew maven
+brew mysql
 brew nodebrew
 brew openssl
 brew pcre
@@ -42,8 +55,10 @@ brew sqlite
 brew tmux
 brew typesafe-activator
 brew wget
+brew xz
 brew zsh
 
 # App Store applications
+appstore Keynote
 appstore RAR Extractor Free
 appstore Xcode
