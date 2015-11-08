@@ -7,6 +7,7 @@ brew brew-cask
 cask alfred
 cask atom
 cask boot2docker-status
+cask docker-compose
 cask docker-machine
 cask flash-player
 cask google-chrome
@@ -14,6 +15,7 @@ cask google-drive
 cask intellij-idea-ce
 cask iterm2
 cask java
+cask slack
 cask vagrant
 
 ## rcmdnk/file
@@ -24,6 +26,7 @@ brew brew-file
 brew ansible
 brew apache-spark
 brew autoconf
+brew awscli
 brew docker
 brew freetype
 brew gdbm
@@ -50,6 +53,7 @@ brew python
 brew rbenv
 brew readline
 brew reattach-to-user-namespace
+brew redis
 brew ruby-build
 brew sqlite
 brew tmux
