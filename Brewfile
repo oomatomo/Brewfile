@@ -56,8 +56,10 @@ brew reattach-to-user-namespace
 brew redis
 brew ruby-build
 brew sqlite
+brew tig
 brew tmux
 brew typesafe-activator
+brew watch
 brew wget
 brew xz
 brew zsh
